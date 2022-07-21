@@ -1,0 +1,31 @@
+header {
+  background-color: darkgray;
+  margin-bottom: 30px;
+}
+
+header nav {
+  margin: auto;
+  width: 960px;
+}
+
+head img {
+  
+}
+
+main img {
+  margin-bottom: 30px;
+}
+
+main {
+  background-color: lightcyan;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: auto;
+  width: 960px;
+}
+
+footer {
+  background-color: gray;
+  height: 50px;
+}
