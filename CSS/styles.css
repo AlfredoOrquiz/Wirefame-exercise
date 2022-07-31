@@ -29,3 +29,29 @@ footer {
   background-color: gray;
   height: 50px;
 }
+
+.button {
+  background-color: lightgray;
+  color: black;
+  margin-top: 100px;
+  width: 75px;
+}
+
+.Nav-Items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.scroll {
+  overflow-x: hidden;
+  overflow-y: auto;
+  border: 1px black solid;
+  height: 350px;
+  margin: 0 auto;
+  font-size: large;
+  width: 450px;
+}
+
+
